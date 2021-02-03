@@ -36,7 +36,7 @@ The above data is requested and stored **locally** on your device. It **does not
 ## Authentication
 YouWidget utilises Google Sign-in for authentication. Your Google account is linked to your YouTube account. Your Google password **never** gets shared with YouWidget. When you sign into your Google account via YouWidget, it is done securely via Google’s website and YouWidget is given **read-only** permission to your account via an authorization token.
 
-This token is used to authenticate with the YouTube Data API and hence allows YouWidget to access YouTube data as described above. The token is stored securely in your device's keychain. You can revoke YouWidgets’s access to your account from Google’s website at any time. The app **does not** have write access to your Google/YouTube account.
+This token is used to authenticate with the YouTube Data API and hence allows YouWidget to access YouTube data as described above. The token is stored securely in your device's keychain. The app **does not** have write access to your Google/YouTube account. You can revoke YouWidgets’s access to your YouTube account at any time from [Google's Security Settings Page](https://security.google.com/settings/security/permissions).
 
 ## YouTube Data API Services
 As mentioned above, YouWidget uses YouTube Data API Services to request YouTube data. Therefore, by using YouWidget, you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](http://www.google.com/policies/privacy), and [API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service) when engaging YouTube content and services through the app.
@@ -53,4 +53,4 @@ I may update this Privacy Policy from time to time. Thus, you are advised to rev
 ## Contact Me
 Please do not hesitate to contact me if you have any questions regarding this privacy policy or YouWidget.
 
-#### Last Updated: 25th January, 2021, 12:53 GMT
+#### Last Updated: 3rd February, 2021, 10:18 GMT

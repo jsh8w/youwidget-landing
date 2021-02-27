@@ -47,6 +47,9 @@ I value your trust in providing the service with your Personal Information, thus
 ## Links to Other Sites
 YouWidget may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+## Premium Purchases
+If you sign-up for YouWidget Premium, either via Subscription or In-App Purchase, your billing information, address, and name are all maintained by the Apple App Store and are not visible to me. I will simply get information about whether or not you have purchased a subscription/in-app purchase, the term you signed up for and when it is due to expire. This is all made available to me in an anonymous fashion. This anonymous data is also shared with my purchase provider [RevenueCat](https://www.revenuecat.com/dpa).
+
 ## Changes to Privacy Policy
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new or updated Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 

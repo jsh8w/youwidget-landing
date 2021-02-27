@@ -56,4 +56,4 @@ I may update this Privacy Policy from time to time. Thus, you are advised to rev
 ## Contact Me
 Please do not hesitate to contact me if you have any questions regarding this privacy policy or YouWidget.
 
-#### Last Updated: 3rd February, 2021, 10:18 GMT
+#### Last Updated: 27th February, 2021, 22:09 GMT
